@@ -23,7 +23,7 @@ This Power BI dashboard provides a comprehensive analysis of customer shopping b
 - Payment method preferences
 - Subscription vs non-subscriber revenue contributions
 
-**Live Demo:** [View Dashboard PDF](customer_behavior_Dashboard.pdf)
+**Live Demo:** [View Dashboard PDF](https://github.com/junaidshaik133-dot/customer_behavior_analysis/blob/main/customer_behavior_Dashboard.pdf)
 
 ## 🎯 Business Value
 
